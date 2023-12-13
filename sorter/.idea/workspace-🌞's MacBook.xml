@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff5eba5a-67d0-4d34-ad3b-f57e8c8311a1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/CODEOWNERS" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/CODEOWNERS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/ISSUE_TEMPLATE/question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/ISSUE_TEMPLATE/question.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/ISSUE_TEMPLATE/v1-bug-report.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/ISSUE_TEMPLATE/v1-bug-report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/ISSUE_TEMPLATE/v2-bug-report.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/ISSUE_TEMPLATE/v2-bug-report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/ISSUE_TEMPLATE/v3-feature-request.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/ISSUE_TEMPLATE/v3-feature-request.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/codecov.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/codecov.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/pull_request_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/pull_request_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/workflows/cli.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/workflows/cli.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/workflows/frogbot-scan-and-fix.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/workflows/frogbot-scan-and-fix.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/workflows/frogbot-scan-pr.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/workflows/frogbot-scan-pr.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/workflows/golangci-lint.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/.github/workflows/golangci-lint.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/.golangci.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/.golangci.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/args.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/args.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/autocomplete/bash_autocomplete" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/autocomplete/bash_autocomplete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/autocomplete/powershell_autocomplete.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/autocomplete/powershell_autocomplete.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/autocomplete/zsh_autocomplete" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/autocomplete/zsh_autocomplete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/category.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/category.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/cli.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/cli.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/cli_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/cli_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/command.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/command.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/command_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/command_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/completion.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/completion.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/completion_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/completion_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/RELEASING.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/RELEASING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/SECURITY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/migrate-v1-to-v2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/migrate-v1-to-v2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/arguments.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/arguments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/bash-completions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/bash-completions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/combining-short-options.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/combining-short-options.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/exit-codes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/exit-codes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/flags.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/flags.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/generated-help-text.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/generated-help-text.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/greet.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/greet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/subcommands-categories.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/subcommands-categories.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/subcommands.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/subcommands.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/version-flag.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/examples/version-flag.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/getting-started.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/getting-started.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/migrating-to-v2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v1/migrating-to-v2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/arguments.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/arguments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/bash-completions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/bash-completions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/combining-short-options.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/combining-short-options.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/exit-codes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/exit-codes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/flags.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/flags.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/full-api-example.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/full-api-example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/generated-help-text.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/generated-help-text.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/greet.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/greet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/subcommands-categories.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/subcommands-categories.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/subcommands.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/subcommands.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/suggestions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/suggestions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/timestamp-flag.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/timestamp-flag.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/version-flag.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/examples/version-flag.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/getting-started.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/getting-started.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/migrating-from-older-releases.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v2/migrating-from-older-releases.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v3/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/docs/v3/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/errors.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/errors_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/errors_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/examples_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/examples_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/fish.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/fish.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/fish_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/fish_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_bool.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_bool.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_bool_with_inverse.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_bool_with_inverse.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_bool_with_inverse_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_bool_with_inverse_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_duration.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_duration.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_ext.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_ext.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_float.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_float.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_float_slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_float_slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_impl.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_impl.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_int.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_int.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_int_slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_int_slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_map_impl.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_map_impl.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_mutex.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_mutex.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_mutex_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_mutex_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_slice_base.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_slice_base.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_string.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_string.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_string_map.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_string_map.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_string_slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_string_slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_timestamp.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_timestamp.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_uint.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_uint.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_uint_slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_uint_slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_validation_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/flag_validation_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/funcs.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/funcs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/godoc-current.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/godoc-current.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/help.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/help.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/help_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/help_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/helpers_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/helpers_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/internal/build/build.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/internal/build/build.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/internal/example-cli/example-cli.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/internal/example-cli/example-cli.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/internal/example-hello-world/example-hello-world.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/internal/example-hello-world/example-hello-world.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/mkdocs-reqs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/mkdocs-reqs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/mkdocs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/parse.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/parse.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/sort.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/sort_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/sort_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/suggestions.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/suggestions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/suggestions_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/suggestions_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/template.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/template.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-doc-full.man" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-doc-full.man" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-doc-full.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-doc-full.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-doc-no-authors.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-doc-no-authors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-doc-no-commands.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-doc-no-commands.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-doc-no-flags.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-doc-no-flags.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-doc-no-usagetext.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-doc-no-usagetext.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-fish-full.fish" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-fish-full.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-tabular-markdown-custom-app-path.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-tabular-markdown-custom-app-path.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-tabular-markdown-full.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/expected-tabular-markdown-full.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/godoc-v3.x.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/testdata/godoc-v3.x.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/value_source.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/value_source.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/urfave/cli/value_source_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/urfave/cli/value_source_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://D:/Programs/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/github.com/urfave/cli" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2Ypw93AQDC2amEPxwxXyMl0mQP6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "configurable..is.expanded": "true",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/innocent",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.goide.configuration.GoProjectSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YangWB\OneDrive\Repository\Programming\Go\codes\sorter\src" />
+      <recent name="C:\Users\YangWB\OneDrive\Repository\Programming\Go\codes\sorter\sorter\algorithms\qsort" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
